@@ -18,7 +18,7 @@ function NavMenu() {
 
           <a
             className="navbar-brand"
-            href="https://www.hoxwi.com"
+            href="https://github.com/kaioosilva/hoxwi-project"
             style={{ color: "#fff" }}
           >
             HoxWi - Project
