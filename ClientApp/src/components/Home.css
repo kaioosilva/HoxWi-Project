@@ -1,0 +1,42 @@
+.Container {
+  height: 100%;
+  width: 100%;
+
+  margin-top: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+  margin-top: 20px;
+}
+
+h1 {
+  display: flex;
+
+  justify-content: center;
+
+  /* color: #e89ac1; */
+  margin-top: 30px;
+  width: auto;
+  font-size: 30px;
+}
+
+h2 {
+  /* color: #e89ac1; */
+  margin-top: 30px;
+  width: auto;
+  font-size: 20px;
+}
+
+/* h1:hover {
+  color: #da5899;
+  transition: 0.4s;
+
+  cursor: pointer;
+} */
